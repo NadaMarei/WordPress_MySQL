@@ -7,7 +7,8 @@ This repository contains a Docker Compose file that sets up a local development 
 - Docker Compose
 
 ## Getting Started
-1- Clone this repository to your local machine using the command:`git clone https://github.com/NadaMarei/WordPress_MySQL.git` </br>
+1- Clone this repository to your local machine using the command:</br>
+`git clone https://github.com/NadaMarei/WordPress_MySQL.git` </br>
 </br>
 2- Navigate to the repository's root directory: `cd WordPress_MySQL`</br>
 </br>
