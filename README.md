@@ -12,7 +12,7 @@ This repository contains a Docker Compose file that sets up a local development 
 </br>
 2- Navigate to the repository's root directory: `cd WordPress_MySQL`</br>
 </br>
-3- Run the following command to start the containers in detached mode:`docker-compose up -d`</br>
+3- Run the following command to start the containers in detached mode:`docker compose up -d`</br>
 </br>
 4- Access WordPress by navigating to `http://localhost:8000` in your web browser.</br>
 </br>
@@ -21,7 +21,7 @@ This repository contains a Docker Compose file that sets up a local development 
 
 ## Stopping the Environment
 To stop the environment, run the following command in the repository's root directory: </br>
-`docker-compose down`
+`docker compose down`
 </br>
 #### This will stop and remove the containers, networks, and volumes created by the Docker Compose file.
 
